@@ -1,0 +1,10 @@
+[package]
+name = "pardalotus_chaser"
+authors = ["Joe Wass <joe@afandian.com>"]
+description = "Keep up to date with scholarly metadata indexed in Crossref."
+readme = "README.md"
+repository = "https://github.com/pardalotus/pardalotus_chaser"
+license = "MIT"
+keywords = ["metadata", "doi"]
+version = "0.1.0"
+edition = "2021"
